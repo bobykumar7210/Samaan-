@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Samaan</string>
+    <string name="hyper_sonic">hyper-sonic</string>
+    <string name="quantity_5">Quantity: 5</string>
+    <string name="product_name">Hypersonic 3D single car seat organizer with food tray</string>
+    <string name="rupees_product">₹</string>
+    <string name="in_stock">Hurry up only left </string>
+    <string name="action_insert_dummy_data">insert dummy product</string>
+    <string name="action_delete_all_entries">"delete all "</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+
+    <string name="delete_dialog_msg">Delete this product?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+</resources>
