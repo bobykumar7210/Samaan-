@@ -2,7 +2,6 @@
 Demo Project to learn Sqlite databse ,CRUD operation and Creating intents to other apps using stored information.
 
 
-**Apk download** - [here](https://github.com/bobykumar7210/Bhukamp/raw/master/image/app-debug.apk)
 
 ## App Sreenshots
 
@@ -10,17 +9,17 @@ Demo Project to learn Sqlite databse ,CRUD operation and Creating intents to oth
 
 ![](/image/home.png) 
 
-### Setting-
+### Edit-
 
-![](/image/setting.png)  
+![](/image/edit.png)  
 
-### Home-
+### Confirmation-
 
-![](/image/home.png) 
+![](/image/dialog.png) 
 
-### Setting-
+### Delete-
 
-![](/image/setting.png)
+![](/image/delete.png)
 
 
 **what i learn from project**
